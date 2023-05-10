@@ -1,5 +1,5 @@
 # FunnySentenceGenerator
-Creates funny sentences from randomly generated words
+It creates funny sentences from randomly generated words
 The ganerator is the third project task in Programming Fundamentals module of SoftUni.
 
 ![Без име](https://github.com/RadostinStoyanov1/FunnySentenceGenerator/assets/127531328/0f7ca04c-3e1a-44ae-a86f-2b04a2a24e72)
